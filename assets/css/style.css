@@ -10,6 +10,8 @@
 --------------------------------------------------------------*/
 
 @import url(//db.onlinewebfonts.com/c/966095a750228427f8062d6d97706dd2?family=Saudagar);
+
+@font-face {font-family: "Saudagar"; src: url("//db.onlinewebfonts.com/t/966095a750228427f8062d6d97706dd2.eot"); src: url("//db.onlinewebfonts.com/t/966095a750228427f8062d6d97706dd2.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/966095a750228427f8062d6d97706dd2.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/966095a750228427f8062d6d97706dd2.woff") format("woff"), url("//db.onlinewebfonts.com/t/966095a750228427f8062d6d97706dd2.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/966095a750228427f8062d6d97706dd2.svg#Saudagar") format("svg"); }
 body {
   font-family: "Lato", monospace;
   color: #0d1e2d;
