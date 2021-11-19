@@ -8,6 +8,8 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
+@import url(//db.onlinewebfonts.com/c/966095a750228427f8062d6d97706dd2?family=Saudagar);
 body {
   font-family: "Lato", monospace;
   color: #0d1e2d;
@@ -24,7 +26,10 @@ a:hover {
 
 h1, h2, h3, h4, h5, h6, .font-heading {
   font-family: "Saudagar", sans-serif;
+
 }
+
+
 
 .section {
   padding: 1rem 0;
